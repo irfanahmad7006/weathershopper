@@ -56,7 +56,7 @@ Execution from CMD
 
 Execution from IDE
 -----------------  
-* You can start execution from `featuresFiles/E2E Chepeast weather shopping.feature` directly for single feature execution.
+* You can start execution from `featuresFiles/E2E Buy Cheapest Moisturizers Or Sunscreen based on info icon.feature` directly for single feature execution.
 * You can start execution from `src/test/java/runner/RunTest.java` for sequential execution.
 * You can run `mvn clean install` Or `mvn clean verify` Or `mvn clean test`in cmd for parallel execution from terminal.
 
