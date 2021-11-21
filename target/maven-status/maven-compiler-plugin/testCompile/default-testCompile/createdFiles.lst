@@ -1,0 +1,5 @@
+stepdefs\CheckOutStepDefs.class
+stepdefs\HomePageStepDefs.class
+stepdefs\BuyProductsStepDefs.class
+applicationHooks\Hooks.class
+runner\RunTest.class

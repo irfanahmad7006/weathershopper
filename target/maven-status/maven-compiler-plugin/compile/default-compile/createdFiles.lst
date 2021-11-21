@@ -1,0 +1,6 @@
+weatherShopPages\HomePage.class
+driverFactory\DriverFactory.class
+utils\SelUtils.class
+weatherShopPages\BuyProductsPage.class
+utils\ConfigFileReader.class
+weatherShopPages\CheckOutPage.class

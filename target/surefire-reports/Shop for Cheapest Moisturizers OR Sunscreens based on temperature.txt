@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Shop for Cheapest Moisturizers OR Sunscreens based on temperature
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 91.509 s <<< FAILURE! - in Shop for Cheapest Moisturizers OR Sunscreens based on temperature
+Buy cheapest product from weather shopper application(Shop for Cheapest Moisturizers OR Sunscreens based on temperature)  Time elapsed: 46.801 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<PAYMENT [SUCCESS]> but was:<PAYMENT [FAILED]>
+
